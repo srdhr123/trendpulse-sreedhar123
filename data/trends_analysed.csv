@@ -1,0 +1,466 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
+49926069,Pi 1.0,other,1154,365,sergiotapia,2026-10-02 13:18:06.739193,0.31601731601731603,True
+49930047,Shimano Bicycle Museum Review,other,51,7,pietroppeter,2026-10-02 13:18:07.687695,0.1346153846153846,False
+49929113,How Singapore's government-run dating service works,worldnews,110,60,danielfoster,2026-10-02 13:18:08.647142,0.5405405405405406,False
+49929489,DeepSeek Harness Desktop for macOS and Windows,other,192,91,Kuyawa,2026-10-02 13:18:09.595858,0.47150259067357514,True
+49923692,"Clef: Open-weight decision models, and new RL fine-tuning platform",other,491,174,jasondavies,2026-10-02 13:18:10.553164,0.35365853658536583,True
+49926536,SvelteKit 3,other,238,84,sampsn,2026-10-02 13:18:11.501535,0.3514644351464435,True
+49925969,Pi Durable,other,340,44,paulsmith,2026-10-02 13:18:12.457011,0.12903225806451613,True
+49926628,Automatic Transmission – a data-privacy study of connected vehicles,technology,174,157,rafaelc,2026-10-02 13:18:13.401974,0.8971428571428571,True
+49922569,Ask HN: Who is hiring? (October 2026),other,189,189,whoishiring,2026-10-02 13:18:14.389455,0.9947368421052631,True
+49920160,StreetComplete on iOS is now in public beta,other,551,147,Snowly,2026-10-02 13:18:15.317292,0.266304347826087,True
+49924179,Git 3.0's upcoming SHA-256 default will be a costly mistake,other,336,322,chmaynard,2026-10-02 13:18:16.814450,0.9554896142433235,True
+49928121,Several vulnerabilities have been discovered in the Linux kernel,other,247,170,luispa,2026-10-02 13:18:17.837785,0.6854838709677419,True
+49921798,Turbo Haskell,other,73,12,pjmlp,2026-10-02 13:18:18.783871,0.16216216216216217,False
+49926917,Using Opus 5.5 to discover a new eyewitness record of the dodo,other,123,30,benbreen,2026-10-02 13:18:19.722748,0.24193548387096775,False
+49919676,"To grieve, or not to grieve?",other,56,21,stabbles,2026-10-02 13:18:20.705502,0.3684210526315789,False
+49923466,"RIP, vector database",technology,311,86,razin,2026-10-02 13:18:21.638617,0.27564102564102566,True
+49927760,Frog and Toad and the Increasingly Capable Machines,other,129,28,supermdguy,2026-10-02 13:18:22.584755,0.2153846153846154,True
+49927212,CSS Bed: Classless CSS themes to use as starting points in web development,other,97,26,sea-gold,2026-10-02 13:18:23.515230,0.2653061224489796,False
+49926512,ArXiv's Updated Rate Limit Policy,other,107,45,50kIters,2026-10-02 13:18:24.516855,0.4166666666666667,False
+49926773,Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia,entertainment,70,13,Maverick617,2026-10-02 13:18:25.458408,0.18309859154929578,False
+49924618,Vote on which of Hacker News' challenges for AI have been met,technology,134,131,stabbles,2026-10-02 13:18:26.411953,0.9703703703703703,True
+49922674,Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers,other,212,34,nkw,2026-10-02 13:18:27.383669,0.1596244131455399,True
+49930086,US tells France and Germany to release diesel stocks or face US export ban,other,34,27,geox,2026-10-02 13:18:28.317071,0.7714285714285715,False
+49929925,Building reliable (and fast) directory sync,other,5,0,jamilbk,2026-10-02 13:18:29.247063,0.0,False
+49925742,Oxygen-deprived underwater zones may not be “dead zones” but clue to early life,other,95,7,gumby,2026-10-02 13:18:30.309446,0.07291666666666667,False
+49921923,Cloudflare K2: serverless event streams,technology,229,90,elffjs,2026-10-02 13:18:31.284928,0.391304347826087,True
+49922437,Context Language Models,other,141,31,emersonmacro,2026-10-02 13:18:32.236149,0.21830985915492956,True
+49928152,Butterflies use optical illusions to dodge predators,other,39,9,gmays,2026-10-02 13:18:33.171004,0.225,False
+49920896,How to speed up the Rust compiler in September 2026,other,249,138,trickypr,2026-10-02 13:18:34.134865,0.552,True
+49922515,RacketCon Is Saturday,other,138,37,spdegabrielle,2026-10-02 13:18:35.095822,0.26618705035971224,True
+49922568,Ask HN: Who wants to be hired? (October 2026),other,108,334,whoishiring,2026-10-02 13:18:36.053183,3.0642201834862384,False
+49919910,GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design,other,177,106,giuliomagnifico,2026-10-02 13:18:36.997858,0.5955056179775281,True
+49925036,Bez: Generating a browser engine from specs and tests,other,109,45,nerdypepper,2026-10-02 13:18:37.957137,0.4090909090909091,False
+49911500,Show HN: Open-source model routing for coding agents at Astra-level performance,entertainment,101,35,adchurch,2026-10-02 13:18:38.914230,0.3431372549019608,False
+49927587,Aweb – Communication for AI Agents,technology,34,24,gurjeet,2026-10-02 13:18:39.842645,0.6857142857142857,False
+49906100,OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network,other,251,118,sagacity,2026-10-02 13:18:40.790331,0.46825396825396826,True
+49913571,Gemini 4 Argon,other,1653,1135,bradleyg223,2026-10-02 13:18:41.778805,0.6862152357920194,True
+49894430,"Book of Shapes – Collection of minimal, generative and customizable SVG-patterns",entertainment,264,23,eustoria,2026-10-02 13:18:42.715430,0.08679245283018867,True
+49922594,Polyedergarten: Garden of Paper Polyhedron Models,other,55,6,isaacimagine,2026-10-02 13:18:43.659412,0.10714285714285714,False
+49923638,"Lightweight PDF parser with layout, tables, formulas and bounding boxes",other,77,7,beatrizalmeidaf,2026-10-02 13:18:44.598885,0.08974358974358974,False
+49927844,2026 International Utility Locate Rodeo,other,22,3,K7PJP,2026-10-02 13:18:45.553039,0.13043478260869565,False
+49926726,"Show HN: Rhun, an open-source code editor written in assembly",technology,48,29,vladcodes,2026-10-02 13:18:46.495601,0.5918367346938775,False
+49929970,Meta's Muse is fantastic for web scraping,technology,46,53,STRiDEX,2026-10-02 13:18:47.427795,1.127659574468085,False
+49925261,Sudo – A dedicated music player designed around listening to music,sports,39,63,kapsteur,2026-10-02 13:18:48.379605,1.575,False
+49922736,Identity Management for Agentic AI [pdf] (2025),technology,70,23,cgeier,2026-10-02 13:18:49.338181,0.323943661971831,False
+49930061,There's a spike in Bitcoin activity around the time foreign aid money goes out,technology,10,3,MrBuddyCasino,2026-10-02 13:18:50.304160,0.2727272727272727,False
+49928148,Personal Computing 2.0: It's time for a personal computing revolution,other,20,6,raybb,2026-10-02 13:18:52.206946,0.2857142857142857,False
+49920932,Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026,other,351,407,speckx,2026-10-02 13:18:53.151633,1.15625,True
+49927100,The death of web development education,other,193,148,ibobev,2026-10-02 13:18:54.097718,0.7628865979381443,True
+49930027,Amazon seeks to offload $8B of Nvidia chips to investors,other,12,1,JumpCrisscross,2026-10-02 13:18:55.030190,0.07692307692307693,False
+49927854,OpenAI has a LOT of work to do if they think Luna can compete with Jev,technology,14,5,AnthusAI,2026-10-02 13:18:55.996628,0.3333333333333333,False
+49928118,DoGBench: The first user-facing docs generation benchmark. No model scores >50%,other,12,3,prithvi2206,2026-10-02 13:18:56.998423,0.23076923076923078,False
+49928566,Show HN: Giving Opus 5.5 a simulated paint canvas,technology,13,4,alstonite,2026-10-02 13:18:58.083433,0.2857142857142857,False
+49922278,Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones,other,257,206,speckx,2026-10-02 13:18:59.051838,0.7984496124031008,True
+49922212,"How to set up SPF, DKIM, and DMARC for your sending domain",technology,79,27,spy888,2026-10-02 13:19:00.106775,0.3375,False
+49920234,Returning from vacation? The government can search your phone without a warrant,worldnews,371,339,rbanffy,2026-10-02 13:19:01.035185,0.9112903225806451,True
+49926792,"TurboNotes: Local-first Markdown notes, Turbo Pascal like looks, saves to GitHub",other,16,1,vadepaysa,2026-10-02 13:19:01.966215,0.058823529411764705,False
+49923056,Red Hat being phased out of existence?,other,193,110,amcclure,2026-10-02 13:19:03.025532,0.5670103092783505,True
+49928218,A fifth of Swiss Alpine ice has vanished in five years,other,42,0,Teever,2026-10-02 13:19:03.958082,0.0,False
+49911995,Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents,other,191,97,anerli,2026-10-02 13:19:04.878990,0.5052083333333334,True
+49908394,The last time my family was replaced by technology,technology,325,628,megalomanu,2026-10-02 13:19:05.947505,1.9263803680981595,True
+49913350,Halfspace experimental IDE for solid modeling with distance fields,science,187,11,luu,2026-10-02 13:19:07.947822,0.05851063829787234,True
+49912444,5x faster Edge Functions: V8 isolates to Firecracker MicroVMs,other,227,103,jbott,2026-10-02 13:19:09.023249,0.4517543859649123,True
+49922729,"Figma restricts MCP access to whitelisted clients, excluding Pi",other,179,101,thdr,2026-10-02 13:19:10.138459,0.5611111111111111,True
+49902382,Show HN: Ledge.sh – Runnable Markdown Notes,entertainment,199,88,dancablam,2026-10-02 13:19:11.082998,0.44,True
+49893519,Adding Floating-Point Decimals for Fun and Profit,other,59,32,ibobev,2026-10-02 13:19:12.006479,0.5333333333333333,False
+49924543,The GPU Black Market That Washington Can't Shut Down,technology,29,4,ilreb,2026-10-02 13:19:12.931324,0.13333333333333333,False
+49904314,LinkedIn Larpmaxxing,other,307,242,BurnerBurner,2026-10-02 13:19:13.975444,0.7857142857142857,True
+49926609,Now That's an Impurity Story,other,15,0,dcminter,2026-10-02 13:19:14.934442,0.0,False
+49909056,What TLA+ can and can't check,other,242,48,b-man,2026-10-02 13:19:15.978879,0.19753086419753085,True
+49926185,"Show HN: What 482 hospitals charge vs. what insurers pay, from their own files",entertainment,16,3,curatedmcp,2026-10-02 13:19:16.942178,0.17647058823529413,False
+49924275,ParadeDB Search Performance Improvements,other,63,10,craigkerstiens,2026-10-02 13:19:17.831720,0.15625,False
+49923944,"Breaking the Cipher of the Napoleonic war briefing, unread for 217 years",worldnews,16,0,theanonymousone,2026-10-02 13:19:18.897167,0.0,False
+49909005,"Los Alamos bets on ENIAC: Nuclear Monte Carlo simulations, 1947–1948 (2014) [pdf]",other,55,1,nill0,2026-10-02 13:19:19.866274,0.017857142857142856,False
+49927686,Griffin: The First Human Interaction Model,other,11,5,smusamashah,2026-10-02 13:19:20.794478,0.4166666666666667,False
+49927682,Pi v1.0.0,other,8,2,bjornroberg,2026-10-02 13:19:21.820159,0.2222222222222222,False
+49880411,Phyllotaxis: An audio-reactive LED display,other,350,50,evakhoury,2026-10-02 13:19:22.736255,0.14245014245014245,True
+49928873,"KernelBench: Can LLMs Write GPU Kernels? – Benchmark and Toolkit, Torch –> CUDA",technology,5,0,peter_d_sherman,2026-10-02 13:19:23.675515,0.0,False
+49890732,Why the Bronze Age Collapsed,other,397,292,AnodicElegy,2026-10-02 13:19:24.620410,0.7336683417085427,True
+49921050,"FTC is investigating OpenAI, Anthropic and other AI companies over product risks",technology,202,153,dgellow,2026-10-02 13:19:25.654797,0.7536945812807881,True
+49903713,Responsible Release of AI-Generated Mathematics,technology,119,176,aureianimus,2026-10-02 13:19:26.570485,1.4666666666666666,False
+49928740,"Merchants, Slaves, Peculium: The History of LLCs",other,5,3,gradus_ad,2026-10-02 13:19:27.657976,0.5,False
+49918161,Suits Are Better Tech Than Modern Clothes,technology,83,172,orphereus,2026-10-02 13:19:28.574064,2.0476190476190474,False
+49926581,"Your folder structure has two jobs, but only does one",other,12,1,alwaysDrafting,2026-10-02 13:19:29.515358,0.07692307692307693,False
+49927981,MonoCode: GUI for Coding Agents,technology,10,6,handfuloflight,2026-10-02 13:19:30.457750,0.5454545454545454,False
+49902019,NRC issues first U.S. construction permit for a BWRX-300 small modular reactor,other,143,182,papa-whisky,2026-10-02 13:19:31.496324,1.2638888888888888,True
+49912048,CHOMPI portable sampler instrument is now open-source (hardware and software),technology,104,30,lashkari,2026-10-02 13:19:32.438354,0.2857142857142857,False
+49928054,Apple's smart home camera reportedly won't record video,other,28,52,mikelgan,2026-10-02 13:19:33.351805,1.793103448275862,False
+49925974,FLUX 3 Image,other,23,2,minimaxir,2026-10-02 13:19:34.731769,0.08333333333333333,False
+49882754,Burning Man death rates – A short lesson in statistics,other,174,234,viraj_shah,2026-10-02 13:19:35.877872,1.3371428571428572,True
+49905644,Doing a Machine Learning PhD While Working in Japan,other,141,43,pwim,2026-10-02 13:19:36.856997,0.3028169014084507,True
+49915082,"The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",other,302,160,Bluestein,2026-10-02 13:19:37.878857,0.528052805280528,True
+49887343,Solving Factorio Quality,other,274,107,laurenth,2026-10-02 13:19:38.818744,0.3890909090909091,True
+49915126,56k.rip – the 1996 dial-up internet experience,other,265,109,adunk,2026-10-02 13:19:39.873891,0.40977443609022557,True
+49906637,You said no MCP,technology,671,360,yarapavan,2026-10-02 13:19:41.178864,0.5357142857142857,True
+49926294,"Kcc, a C compiler built solo with an LLM on $100/month boot Linux kernel",technology,15,14,temo_pacheco,2026-10-02 13:19:42.271830,0.875,False
+49908962,SDF vs. MSDF vs. Slug: GPU Text Rendering,technology,177,71,ibobev,2026-10-02 13:19:43.787730,0.398876404494382,True
+49912792,Before pixels: Modular industrial dashboards,other,290,57,leephillips,2026-10-02 13:19:45.497644,0.1958762886597938,True
+49909908,Coltrane's Tone Circle,other,83,25,jtomschroeder,2026-10-02 13:19:46.481020,0.2976190476190476,False
+49909583,A brief history of the Bloomberg terminal,other,380,168,rbanffy,2026-10-02 13:19:47.554674,0.4409448818897638,True
+49896757,Show HN: A working 3D model of an Enigma machine,entertainment,108,40,primitivesuave,2026-10-02 13:19:48.524110,0.3669724770642202,False
+49901736,Livenerf: Has Opus 5.5 been nerfed yet?,other,914,389,bryan0,2026-10-02 13:19:50.477804,0.42513661202185793,True
+49909610,SDF Public Access Unix System ... est. 1987,other,102,25,kmstout,2026-10-02 13:19:51.410439,0.24271844660194175,False
+49928963,"Nazi Germany had no hope of making an atomic bomb, uranium cubes reveal",other,15,4,xqcgrek2,2026-10-02 13:19:52.328034,0.25,False
+49911534,"Great Dirhombicosidodecahedron (""Miller's Monster"")",other,82,18,cobbzilla,2026-10-02 13:19:53.392981,0.21686746987951808,False
+49913192,EDG C++ front-end goes public,other,244,127,iandinwoodie,2026-10-02 13:19:54.308443,0.5183673469387755,True
+49925812,Effect 4.0,other,63,41,stevefan1999,2026-10-02 13:19:55.228290,0.640625,False
+49929323,Scientists explain how a 300 TeV photon could reach Earth,technology,6,1,EA-3167,2026-10-02 13:19:56.316123,0.14285714285714285,False
+49927747,Sites in ChatGPT,other,6,6,polvi,2026-10-02 13:19:57.254010,0.8571428571428571,False
+49929278,"Creatine may help build muscle even without exercise, researchers find",science,8,5,gradus_ad,2026-10-02 13:19:58.173765,0.5555555555555556,False
+49912955,Surprisingly complex waves reveal the brain's inner workings,technology,249,96,ibobev,2026-10-02 13:19:59.234938,0.384,True
+49913604,Functional Ultrasound Imaging (fUSI) from scratch,other,52,11,pminimax,2026-10-02 13:20:00.151920,0.20754716981132076,False
+49928904,Our AI Midwife,technology,7,2,semiquaver,2026-10-02 13:20:01.099746,0.25,False
+49910613,Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management,other,68,37,croes,2026-10-02 13:20:03.103767,0.5362318840579711,False
+49879346,Getting out of the way: my robotics crash course,other,82,23,systemerror,2026-10-02 13:20:04.157147,0.27710843373493976,False
+49890707,Show HN: JBR-001 – An open-source 3D printable desktop robot,entertainment,131,31,gvuksic,2026-10-02 13:20:05.107132,0.23484848484848486,True
+49895221,PlayBook: A Programmable Paper Notebook [video],entertainment,35,7,surprisetalk,2026-10-02 13:20:06.020975,0.19444444444444445,False
+49886535,Show HN: Dental Scope – Interactive 3D dental anatomy,entertainment,130,66,Zeruxe,2026-10-02 13:20:06.959605,0.5038167938931297,True
+49883970,I could've accessed 17T Microsoft records,other,316,127,luispa,2026-10-02 13:20:07.996165,0.40063091482649843,True
+49924385,"Consumer AI Fatigue Is Overwhelming, Local Businesses Should Reconsider Use",technology,31,9,PLenz,2026-10-02 13:20:08.978985,0.28125,False
+49924943,"Show HN: Breadcrumb, record everything on your mac + context manager for AI",technology,19,2,jv22222,2026-10-02 13:20:09.998239,0.1,False
+49928099,California issues investigative subpoena to OpenAI over rogue agents' hacking,technology,11,0,sbulaev,2026-10-02 13:20:10.993689,0.0,False
+49926691,Show HN: Premortem – AI agents that red-team your startup idea,technology,7,10,ahoskins,2026-10-02 13:20:12.027530,1.25,False
+49889140,Mathematical Origami,other,125,23,signa11,2026-10-02 13:20:13.106346,0.18253968253968253,False
+49896604,Dots: Always-on agents,other,763,639,alvis,2026-10-02 13:20:14.069506,0.8363874345549738,True
+49928550,"NASA has a Dragon dilemma, and there appear to be no good answers",science,10,0,Terretta,2026-10-02 13:20:15.109231,0.0,False
+49893509,America.gov,other,769,732,plesiv,2026-10-02 13:20:16.288338,0.9506493506493506,True
+49906432,Singapore govt dating app uses Gale-Shapley stable marriage algorithm,other,452,473,rzk,2026-10-02 13:20:17.488398,1.044150110375276,True
+49888182,"When oil prices spike, where does the money go?",other,170,188,thelastgallon,2026-10-02 13:20:18.426383,1.0994152046783625,True
+49901999,Hacking SimCity 2000 saved games,sports,42,23,zdw,2026-10-02 13:20:19.488804,0.5348837209302325,False
+49870367,When did Google get so weird?,other,2002,1110,sancho-panza,2026-10-02 13:20:20.549116,0.5541687468796804,True
+49914657,pldb: programming languages papers,other,39,3,matt_d,2026-10-02 13:20:22.596197,0.075,False
+49897993,Vermont replacing power plants with home batteries,other,385,300,devonnull,2026-10-02 13:20:23.549775,0.7772020725388601,True
+49915119,Automating Wi-Fi setup testing on the ESP32,other,31,2,adunk,2026-10-02 13:20:24.599284,0.0625,False
+49871018,"NAND-16: a computer built from 277,248 NAND gates",technology,182,101,rossant,2026-10-02 13:20:25.551605,0.5519125683060109,True
+49894351,Show HN: NSL – WSL for Linux,entertainment,164,111,bketelsen,2026-10-02 13:20:26.512948,0.6727272727272727,True
+49911757,Commit description as a thinking tool,other,129,77,yedhukrishnan,2026-10-02 13:20:27.518406,0.5923076923076923,True
+49927754,Court Agrees with EFF: Utah's VPN Law Demands a Technical Impossibility,technology,10,0,hn_acker,2026-10-02 13:20:28.452697,0.0,False
+49903862,RSS Feeds for Last.fm,other,129,50,Baljhin,2026-10-02 13:20:29.427726,0.38461538461538464,True
+49916997,Show HN: Yantra – an LALR(1) parser generator for C++,entertainment,32,16,renjipanicker,2026-10-02 13:20:30.438591,0.48484848484848486,False
+49906295,"Jacques Barzun, Cultural historian and critic (1980)",other,12,5,Michelangelo11,2026-10-02 13:20:31.508237,0.38461538461538464,False
+49928443,Thought-Terminating Cliché,other,14,5,tiagod,2026-10-02 13:20:32.628493,0.3333333333333333,False
+49928862,Martian Chaos Terrain,technology,6,0,tiagod,2026-10-02 13:20:33.573207,0.0,False
+49883913,Testing WebGPU data layouts with Facet,technology,90,7,luu,2026-10-02 13:20:34.489098,0.07692307692307693,False
+49926641,19 Out of 21 Late-Model Cars Tested Shared Data with 3rd Parties,technology,14,1,rafaelc,2026-10-02 13:20:35.548484,0.06666666666666667,False
+49907802,"Dumb servers, smart clients: Distributing OS images with Quarry",other,29,1,Levitating,2026-10-02 13:20:36.499763,0.03333333333333333,False
+49884346,Reverse-engineering a $35 backup camera display (AMT630A),other,81,25,mogrinz,2026-10-02 13:20:37.463920,0.3048780487804878,False
+49890733,NASA asked several former SR-71A staffers to help secret restart,science,320,395,ilamont,2026-10-02 13:20:38.468848,1.2305295950155763,True
+49928368,Mass exploitation of Citrix NetScaler: What we currently know,other,6,0,wicket,2026-10-02 13:20:39.388677,0.0,False
+49927887,Long-term nuclear waste warning messages,worldnews,10,1,dmschulman,2026-10-02 13:20:40.317308,0.09090909090909091,False
+49915060,IANA's email about why example.com changed,technology,56,16,oliverdunk,2026-10-02 13:20:41.255813,0.2807017543859649,False
+49902093,Floppy Emu Hardware Failure Analysis Results,technology,61,10,zdw,2026-10-02 13:20:42.306479,0.16129032258064516,False
+49925606,"US judge dismisses Chegg, Penske antitrust suits over Google AI Overviews",technology,20,0,utiiiD,2026-10-02 13:20:43.245418,0.0,False
+49924301,Show HN: I made a computer vision tool for evaluating deadlift form,technology,5,1,dr_blueberry,2026-10-02 13:20:44.190584,0.16666666666666666,False
+49922075,Amazon's delivery driver smart glasses will take photos 'almost constantly',other,31,4,pavel_lishin,2026-10-02 13:20:45.225945,0.125,False
+49879758,"Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",entertainment,83,20,seam_carver,2026-10-02 13:20:46.303779,0.23809523809523808,False
+49898778,Show HN: Real-time Solar System with 526k asteroids and all tracked satellites,entertainment,399,107,wanick,2026-10-02 13:20:47.329078,0.2675,True
+49895864,"Needed 1+1, built a functional programming language",other,151,76,birdculture,2026-10-02 13:20:48.305263,0.5,True
+49912094,Recursive `make` and `-j`,other,32,13,ibobev,2026-10-02 13:20:49.262466,0.3939393939393939,False
+49921051,An AI sovereign wealth fund isn't progressive – it's techno-imperialism,technology,89,60,Anon84,2026-10-02 13:20:50.334183,0.6666666666666666,False
+49927693,Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it,technology,35,45,bundie,2026-10-02 13:20:51.283475,1.25,False
+49902290,Speeding up the separating axis test using inscribed spheres,other,9,0,panic,2026-10-02 13:20:52.393820,0.0,False
+49896712,Tcl/Tk 9.1,other,303,143,dmux,2026-10-02 13:20:53.404275,0.47039473684210525,True
+49893002,Backblaze drive stats for Q2 2026,other,305,113,HieronymusBosch,2026-10-02 13:20:54.332167,0.369281045751634,True
+49890226,A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf],technology,423,139,damaru2,2026-10-02 13:20:55.260968,0.3278301886792453,True
+49892245,How Delhi cut electricity loss from 50 to 5 percent,other,589,332,rbanffy,2026-10-02 13:20:56.203853,0.5627118644067797,True
+49877678,Does Reddit have an astroturfing problem? What the data suggests,technology,309,403,p-s-v,2026-10-02 13:20:57.114387,1.3,True
+49878857,A Staff Engineer's Guide to Inventing Work,other,375,90,amortize,2026-10-02 13:20:58.178953,0.2393617021276596,True
+49913975,Gitea 28.0,other,96,43,porridgeraisin,2026-10-02 13:20:59.252332,0.44329896907216493,False
+49899090,U.S. postal inspectors shut down website selling counterfeit postage labels,other,278,169,ilamont,2026-10-02 13:21:00.232609,0.6057347670250897,True
+49922772,Show HN: CoIsland – Your whole engineering stack in a notch,entertainment,5,1,LeDonT,2026-10-02 13:21:01.287368,0.16666666666666666,False
+49926189,SvelteKit 3 Released,other,10,0,thunderbong,2026-10-02 13:21:03.476309,0.0,False
+49926893,Canada to fast track oil pipeline designed to diversify economy away from US,other,8,5,toomuchtodo,2026-10-02 13:21:04.410646,0.5555555555555556,False
+49928192,Tiny Brutalism,other,11,3,abetusk,2026-10-02 13:21:05.314717,0.25,False
+49913364,Dear Software Makers,technology,120,89,speckx,2026-10-02 13:21:06.399846,0.7355371900826446,False
+49893157,Ask HN: What are you reading?,other,453,868,dan-bailey,2026-10-02 13:21:07.419517,1.9118942731277533,True
+49869441,Digital Audio on the ZX Spectrum's 1-Bit Beeper,other,67,25,ibobev,2026-10-02 13:21:08.398686,0.36764705882352944,False
+49893909,Understanding the Dual Polytope for Hull Simplification,other,22,2,OlympicMarmoto,2026-10-02 13:21:09.483911,0.08695652173913043,False
+49924570,Ask HN: Email leaked while traveling abroad?,technology,17,8,thatonehack,2026-10-02 13:21:10.430200,0.4444444444444444,False
+49895304,PS5 Relapse Exploit,other,347,254,therepanic,2026-10-02 13:21:11.670208,0.7298850574712644,True
+49898050,We’re forgetting what darkness feels like,other,207,123,pseudolus,2026-10-02 13:21:12.609642,0.5913461538461539,True
+49892175,Sustainable energy without the hot air (2008),technology,149,92,0sake_rs,2026-10-02 13:21:13.696912,0.6133333333333333,True
+49878093,Walking Men,other,85,26,surprisetalk,2026-10-02 13:21:15.885980,0.3023255813953488,False
+49891203,Language models for text classification: From bag-of-words to Jev,other,212,10,Anon84,2026-10-02 13:21:16.832886,0.046948356807511735,True
+49894143,Mechanochemistry of Molecular Motors [video],other,17,2,surprisetalk,2026-10-02 13:21:17.888921,0.1111111111111111,False
+49925112,"SNL ""Old Glory Robot Insurance"" (1995) [video]",other,11,1,thomassmith65,2026-10-02 13:21:18.814302,0.08333333333333333,False
+49927734,"Broadcom to lend Anthropic up to $42B to lease its chips, filing says",other,5,2,bundie,2026-10-02 13:21:19.795584,0.3333333333333333,False
+49872612,Behold the pawpaw,other,85,48,BiraIgnacio,2026-10-02 13:21:20.830545,0.5581395348837209,False
+49872883,Nissan's third generation e-POWER powertrain,technology,169,458,mroche,2026-10-02 13:21:21.875179,2.6941176470588237,True
+49876052,Systems that no one will test,other,152,83,perone,2026-10-02 13:21:22.804452,0.5424836601307189,True
+49879401,Show HN: HN.watch – Videos of all Hacker News posts,entertainment,219,97,mrborgen,2026-10-02 13:21:23.744829,0.4409090909090909,True
+49883635,Virus Stole a Human Gene and Won't Let Go of It,other,100,40,gumby,2026-10-02 13:21:24.668764,0.39603960396039606,False
+49899047,A Closer Look at Australopithecus Africanus,other,18,4,dxs,2026-10-02 13:21:25.613761,0.21052631578947367,False
+49883539,California farmers are struggling to sell grapes as demand for wine drops,other,388,983,randycupertino,2026-10-02 13:21:26.648281,2.526992287917738,True
+49913886,We used a database as a message queue. Now we use Kafka,technology,20,1,bootlegbilly,2026-10-02 13:21:27.590152,0.047619047619047616,False
+49883536,Scientists solve 1840s space weather mystery,science,128,57,gumby,2026-10-02 13:21:28.552446,0.4418604651162791,True
+49896586,GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price,other,1061,947,crorella,2026-10-02 13:21:29.568918,0.891713747645951,True
+49913724,"Dear User, email is here to stay",technology,16,2,cachrevolt,2026-10-02 13:21:30.510528,0.11764705882352941,False
+49924299,Sony released the first CD audio player on this day in 1982,sports,15,8,Brajeshwar,2026-10-02 13:21:31.484754,0.5,False
+49880601,Show HN: Destroy Any Website with Stickman,entertainment,193,41,HugoDz,2026-10-02 13:21:32.489183,0.211340206185567,True
+49875142,"37,500 border drawings: a map of the world as people remember it",other,181,34,nicocarsui,2026-10-02 13:21:33.555657,0.18681318681318682,True
+49895970,What if Jev spoke Arrow?,other,45,5,ianmcook,2026-10-02 13:21:34.476037,0.10869565217391304,False
+49926110,War Bros Didn't Always Rule Silicon Valley,worldnews,8,0,gmays,2026-10-02 13:21:35.428061,0.0,False
+49870376,"Booted up in 1993, this server still runs – but not for much longer (2017)",other,191,110,doener,2026-10-02 13:21:36.350753,0.5729166666666666,True
+49920650,Price Increases for 2GB Raspberry Pi 4 and Raspberry Pi 5,other,35,30,rbanffy,2026-10-02 13:21:37.329510,0.8333333333333334,False
+49892120,"1 in 8 cancer cases worldwide are caused by infections, study finds",science,289,155,colinprince,2026-10-02 13:21:38.329097,0.5344827586206896,True
+49901149,Deser: Rethinking Rust Serialization,other,72,7,tosh,2026-10-02 13:21:40.705553,0.0958904109589041,False
+49916865,Jevotron: Multiple Jev integrations from the command line,other,12,1,chrismungall,2026-10-02 13:21:41.644323,0.07692307692307693,False
+49879577,Cf: The Agentic CLI for the Cloudflare API,technology,170,86,macleos,2026-10-02 13:21:42.575505,0.5029239766081871,True
+49877988,Coding is not solved,other,579,543,firstSpeaker,2026-10-02 13:21:43.626649,0.9362068965517242,True
+49891290,Jeeves. Reasoning improves Jev-like decision models,other,242,95,nicowaltz,2026-10-02 13:21:44.750867,0.39094650205761317,True
+49876148,What would a serious AI product look like?,technology,175,84,lumpa,2026-10-02 13:21:45.816707,0.4772727272727273,True
+49925557,MTV Didn't Die of Bad Taste: It Died the Day the Doors Multiplied,other,11,1,01-_-,2026-10-02 13:21:46.776484,0.08333333333333333,False
+49883760,World Labs is Joining AMD,other,307,121,mfiguiere,2026-10-02 13:21:47.708691,0.39285714285714285,True
+49913255,"America.gov goes crazy on ""play Minecraft""",other,124,50,thoughtfullyso,2026-10-02 13:21:48.737954,0.4,False
+49922074,Amazon introduces a redesigned Kindle family,other,18,18,seam_carver,2026-10-02 13:21:50.614349,0.9473684210526315,False
+49883471,It's Time to Investigate the AI Labs,technology,626,277,ibobev,2026-10-02 13:21:51.707806,0.44178628389154706,True
+49927872,Cancel Your Subscription: a free browser game,sports,7,3,kamphey,2026-10-02 13:21:52.929382,0.375,False
+49910328,Show HN: Parrot – Open-Source Smart Meeting Recorder with Co-Pilot on Mac,entertainment,36,33,turantekin,2026-10-02 13:21:53.913242,0.8918918918918919,False
+49880036,Pirating the Pirates,other,702,385,piotrgrabowski,2026-10-02 13:21:54.915385,0.5476529160739687,True
+49927771,Sindre Sorhus has stopped accepting external PRs,other,5,1,apf6,2026-10-02 13:21:55.848335,0.16666666666666666,False
+49912782,The eruption that destroyed Pompeii is helping scientists date Earth's history,other,17,0,gmays,2026-10-02 13:21:56.922386,0.0,False
+49873241,Thinking fast and slow in AI: The role of metacognition (2021),technology,177,84,teleforce,2026-10-02 13:21:58.956487,0.47191011235955055,True
+49914005,Show HN: Perspica – A semantic diff for reviewing code,technology,14,6,sshah03,2026-10-02 13:22:00.072570,0.4,False
+49926411,Loss of Cell Identity Drives Human Aging,other,5,0,bookofjoe,2026-10-02 13:22:01.146561,0.0,False
+49891295,Everybody’s home. No one’s coming over,other,819,733,barry-cotter,2026-10-02 13:22:02.092923,0.8939024390243903,True
+49888039,Energy Timelines Photovoltaic,technology,12,4,thelastgallon,2026-10-02 13:22:03.147021,0.3076923076923077,False
+49875801,"Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",entertainment,149,62,seamus_c,2026-10-02 13:22:04.147310,0.41333333333333333,True
+49890051,Using any C++ library in Godot,other,168,66,czoido,2026-10-02 13:22:05.134967,0.3905325443786982,True
+49913731,Denying Insulin and Meds: Disturbing Pictures of Neglect in ICE Mortality Report,other,91,14,paimapi,2026-10-02 13:22:06.094693,0.15217391304347827,False
+49927652,Disney World has a better underground cable infrastructure than most cities,other,6,6,ripe,2026-10-02 13:22:07.150785,0.8571428571428571,False
+49870760,Solving a corn puzzle with CP-SAT,other,37,20,luu,2026-10-02 13:22:08.257148,0.5263157894736842,False
+49886278,Its not just the f*cking sandbox,other,37,17,jumploops,2026-10-02 13:22:09.182861,0.4473684210526316,False
+49909913,Show HN: Strata – an expressive semantic layer that can say no to your LLM,technology,23,15,ajoski9,2026-10-02 13:22:10.116388,0.625,False
+49879645,Updated Google Maps shows destruction of the city of Rafah,entertainment,937,920,slowin,2026-10-02 13:22:11.179508,0.9808102345415778,True
+49898931,Show HN: TurboGPT: train 22KiB transformer in 13s,technology,56,10,lostmsu,2026-10-02 13:22:12.250411,0.17543859649122806,False
+49875308,Show HN: Free alternative to graphics design giants,entertainment,144,50,sia_xi,2026-10-02 13:22:13.195687,0.3448275862068966,True
+49893653,Google ending ChromeOS support two years early,other,236,147,rbanffy,2026-10-02 13:22:14.287220,0.620253164556962,True
+49875913,"Parley: Federated, decentralised chat that speaks plain IRC",technology,327,190,davidcollantes,2026-10-02 13:22:15.230428,0.5792682926829268,True
+49927331,Don't Be Fooled by this Summer of AI Hype,technology,38,29,jacquesm,2026-10-02 13:22:16.170415,0.7435897435897436,False
+49878900,What heraldry and Japanese mon can teach about visual-identity generators,other,85,25,bovermyer,2026-10-02 13:22:17.206999,0.29069767441860467,False
+49899932,All Circuits Are Busy Now: The 1990 AT&T Long Distance Network Collapse (1995),other,24,0,robinpie,2026-10-02 13:22:18.138063,0.0,False
+49928795,Reddit is ending RSS support on November 13,other,13,2,soheilpro,2026-10-02 13:22:19.070406,0.14285714285714285,False
+49896975,ChatGPT Pro 500,other,218,266,prodigycorp,2026-10-02 13:22:20.128683,1.2146118721461188,True
+49882781,MicroLLM Lab – Try 7 tiny LLM's in the browser,technology,282,113,logicallee,2026-10-02 13:22:21.070503,0.3992932862190813,True
+49869995,Imp is a full port of DSPy to the BEAM,other,99,10,mpweiher,2026-10-02 13:22:21.980806,0.1,False
+49891769,"Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound",entertainment,66,15,tgluck,2026-10-02 13:22:23.048209,0.22388059701492538,False
+49879883,Nvidia wants to put a watchdog chip next to every AI agent,technology,227,299,jonbaer,2026-10-02 13:22:23.976974,1.3114035087719298,True
+49869773,What I did at Recurse Center,other,132,43,bingden,2026-10-02 13:22:24.928737,0.3233082706766917,True
+49903993,PSSA: A non-transformer language model written from scratch in Rust,other,88,38,sparticle62,2026-10-02 13:22:25.964231,0.42696629213483145,False
+49913458,CS240 AI Cheating Retrospective,technology,116,103,ArchAndStarch,2026-10-02 13:22:26.945201,0.8803418803418803,False
+49879702,Hijacking the PS5's RTMP stream,other,293,92,ibobev,2026-10-02 13:22:28.016810,0.3129251700680272,True
+49879000,MongoDB CEO resigns to join Meta,other,363,305,diek,2026-10-02 13:22:29.048365,0.8379120879120879,True
+49926787,"With most information hidden, the game Stratego had stumped AI–until now",technology,6,0,samizdis,2026-10-02 13:22:30.161846,0.0,False
+49914236,"Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",other,111,61,theanonymousone,2026-10-02 13:22:31.100591,0.5446428571428571,False
+49869574,Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi,entertainment,316,137,safaelmali,2026-10-02 13:22:32.032616,0.43217665615141954,True
+49924837,Where We Expect AMD EPYC 9006 CPUs in the Era of Agentic AI – ServeTheHome,technology,6,0,rbanffy,2026-10-02 13:22:32.954077,0.0,False
+49924786,The Front Page of the Internet Is Killing RSS Feeds,other,8,2,rreyes1979,2026-10-02 13:22:33.996850,0.2222222222222222,False
+49899004,Galaxy Game,sports,20,3,rbanffy,2026-10-02 13:22:34.960977,0.14285714285714285,False
+49884625,ESP32S3 cluster running 1.58-bit (BitNet) Language model,other,150,31,nkko,2026-10-02 13:22:36.001220,0.2052980132450331,True
+49906563,Ask HN: What are you reading to your kids?,other,14,22,jopizio,2026-10-02 13:22:37.061774,1.4666666666666666,False
+49918147,AI borrowers face tough sell in risky corners of US credit market,technology,25,9,1vuio0pswjnm7,2026-10-02 13:22:38.001675,0.34615384615384615,False
+49879697,Kids turned low-traffic NPR Spotify comments into a secret group chat,other,483,256,simonpure,2026-10-02 13:22:39.106603,0.5289256198347108,True
+49903712,Ballmer Peak,technology,88,34,thunderbong,2026-10-02 13:22:40.186627,0.38202247191011235,False
+49891480,"500k facial scans at UK stations yield no arrests, 1 false positive",other,513,304,ilamont,2026-10-02 13:22:41.296739,0.5914396887159533,True
+49926159,We Used AI to Find Out Just How Much Americans Hate AI,technology,6,0,dzohrob,2026-10-02 13:22:42.267240,0.0,False
+49886195,1996 chat room simulator connected to Win95 and System 7 web desktops,other,130,48,henrychannel,2026-10-02 13:22:43.299335,0.366412213740458,True
+49882419,Reducing undefined behavior in the C language,other,51,15,chmaynard,2026-10-02 13:22:44.240365,0.28846153846153844,False
+49920411,"Rpi – a Rust rewrite of the Pi agent, 10× faster startup",other,8,7,bigfishhk,2026-10-02 13:22:45.334814,0.7777777777777778,False
+49883844,"Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",technology,573,224,firelex,2026-10-02 13:22:46.405888,0.3902439024390244,True
+49910462,So You Think You Could Be an Electrician?,other,11,2,zdw,2026-10-02 13:22:47.381935,0.16666666666666666,False
+49907057,"Most data centers refusing to say how much water, electricity they use",technology,216,197,Thom2503,2026-10-02 13:22:48.406490,0.9078341013824884,True
+49889633,Startup Nights 2026 is comming up on 5-6 Nov. in Switzerland,other,48,26,sschueller,2026-10-02 13:22:49.352511,0.5306122448979592,False
+49923737,OpenAI Parts Ways with Researchers Who Allegedly Shared Confidential Information,technology,9,1,louiereederson,2026-10-02 13:22:50.402835,0.1,False
+49917102,Steelers ex-coach Mike Tomlin has been building a Minecraft city for 12 years,other,30,0,Vaslo,2026-10-02 13:22:51.396641,0.0,False
+49911743,The Ethernet spec was first drafted on this day in 1980,other,30,5,Brajeshwar,2026-10-02 13:22:52.418264,0.16129032258064516,False
+49870295,Self-Hosting on the Dark Web,other,356,117,mooreds,2026-10-02 13:22:53.398157,0.3277310924369748,True
+49881370,GDB 18.1 Released,other,43,3,edelsohn,2026-10-02 13:22:54.434610,0.06818181818181818,False
+49881850,Sonnet 5.5,other,883,614,D2OQZG8l5BI1S06,2026-10-02 13:22:55.392039,0.6945701357466063,True
+49871992,European industry is doing better than you may think,other,65,17,andsoitis,2026-10-02 13:22:56.438781,0.25757575757575757,False
+49886482,Tank Body Problem,other,187,54,jimbooonooo,2026-10-02 13:22:57.406287,0.2872340425531915,True
+49925631,"Sources: US tells France, Germany to release diesel stocks or face US export ban",other,7,1,mikhael,2026-10-02 13:22:58.358884,0.125,False
+49893144,Building a certificate authority for the whole Internet,other,72,55,ewpratten,2026-10-02 13:22:59.358435,0.7534246575342466,False
+49901128,Parmiagiano and Financialisation: Cheese as Gold for the Gold of Cheese,other,5,10,paimapi,2026-10-02 13:23:00.286507,1.6666666666666667,False
+49921065,A US Spyware King,worldnews,10,0,ledoge,2026-10-02 13:23:01.228643,0.0,False
+49872723,Owed a billion dollars in Nvidia stock,other,1089,458,Eric_Gullichsen,2026-10-02 13:23:02.362201,0.42018348623853213,True
+49881505,Launch HN: Vespper (YC F24) – SOTA Docx MCP,other,36,17,topaztee,2026-10-02 13:23:03.381402,0.4594594594594595,False
+49925184,Mike Tomlin spent 12 years building a Minecraft city,other,6,1,CoryOndrejka,2026-10-02 13:23:04.345297,0.14285714285714285,False
+49903383,Strange Parodies of Atari 2600 Video Game Box Cover Art (2008),sports,56,33,peter_d_sherman,2026-10-02 13:23:05.421095,0.5789473684210527,False
+49908449,Multi-connectivity for real-time streaming over Wi-Fi,entertainment,15,11,mortenvp,2026-10-02 13:23:06.392638,0.6875,False
+49911520,FTC opens probe into AI giants including Anthropic and OpenAI,technology,36,2,sdlkj-,2026-10-02 13:23:07.388565,0.05405405405405406,False
+49914516,"16-year-old found Microsoft bug, got admin access to 17.3T-row databases",technology,28,1,johnshades,2026-10-02 13:23:09.307822,0.034482758620689655,False
+49916774,HBM: High-Bandwidth Mistake,other,17,1,gok,2026-10-02 13:23:10.308632,0.05555555555555555,False
+49883159,First Steps of the PLC Organization – Independent Public Ledger of Credentials,other,56,25,embedding-shape,2026-10-02 13:23:11.249467,0.43859649122807015,False
+49924514,The AI Pascal's Wager,technology,6,0,1matin,2026-10-02 13:23:12.174731,0.0,False
+49896600,DevDay 2026 Recap,other,95,48,polygot,2026-10-02 13:23:13.106891,0.5,False
+49898958,Show HN: Sarala – An open-source WYSIWYG Markdown editor,entertainment,22,3,solancer,2026-10-02 13:23:14.146658,0.13043478260869565,False
+49913331,Bologna Bottle,other,20,0,_josh_meyer_,2026-10-02 13:23:15.085247,0.0,False
+49881692,Who wrote Elizabeth I's most scathing letters?,other,49,24,benbreen,2026-10-02 13:23:16.022162,0.48,False
+49870070,Alan Kay's answer to “Did the ENIAC have a BIOS”?,other,187,74,midnightfish,2026-10-02 13:23:17.064075,0.39361702127659576,True
+49914804,Show HN: DragomanD – local language translator for Linux,entertainment,8,0,eniac111,2026-10-02 13:23:18.042474,0.0,False
+49916351,California Legalizes Balcony Solar,other,23,5,toomuchtodo,2026-10-02 13:23:19.070361,0.20833333333333334,False
+49914403,"It may soon be possible to create ""mirror life""",other,6,0,vinni2,2026-10-02 13:23:20.042171,0.0,False
+49883273,Raleigh Vektar Restoration (2020),other,20,3,robin_reala,2026-10-02 13:23:21.057609,0.14285714285714285,False
+49913950,Google Grapples with Employee Skepticism About New Gemini Model,other,23,2,merksittich,2026-10-02 13:23:22.018898,0.08333333333333333,False
+49920917,Rust 1.99.0,other,12,3,HieronymusBosch,2026-10-02 13:23:23.063292,0.23076923076923078,False
+49921118,Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes,technology,250,237,gmays,2026-10-02 13:23:23.988393,0.9442231075697212,True
+49917761,Fuck Android Developer Verification Program,other,317,132,0xcrypto,2026-10-02 13:23:25.096322,0.41509433962264153,True
+49894301,"Show HN: Sezwhere – Ask any document ""where does it say that?"" (built on Jev)",entertainment,19,14,irs,2026-10-02 13:23:26.054386,0.7,False
+49909648,"Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",technology,52,47,thanouil1411,2026-10-02 13:23:27.099285,0.8867924528301887,False
+49907601,Muse.ai gets me kicked off fb marketplace,technology,30,14,zcalvin,2026-10-02 13:23:28.036470,0.45161290322580644,False
+49894005,macOS Golden Gate Is a Buggy Mess,other,489,355,SquareOrbits,2026-10-02 13:23:28.990687,0.7244897959183674,True
+49890054,Evan Doorbell's Phone Tapes – Brought to You by Telephone World,other,34,10,mikecarlton,2026-10-02 13:23:30.017631,0.2857142857142857,False
+49917536,What is going on with ceiling fans,other,21,0,colinprince,2026-10-02 13:23:30.949333,0.0,False
+49914880,A Cold War Spy Satellite Named After Farrah Fawcett Just Blew Apart in Orbit,worldnews,24,4,PLenz,2026-10-02 13:23:31.907535,0.16,False
+49869755,Malleable software: Restoring user agency in a world of locked-down apps (2025),technology,161,75,evakhoury,2026-10-02 13:23:32.807904,0.46296296296296297,True
+49872541,Packing Binary Is Fun,other,40,17,BurnerBurner,2026-10-02 13:23:34.048702,0.4146341463414634,False
+49911752,Adding Giscus to Your Hugo Site – Hayden's Blog,other,5,0,rbanffy,2026-10-02 13:23:34.972012,0.0,False
+49920186,"Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",other,5,0,layer8,2026-10-02 13:23:36.047302,0.0,False
+49920984,Russian missile strikes take out popular piracy websites,other,35,2,rbanffy,2026-10-02 13:23:36.993638,0.05555555555555555,False
+49915157,Turbo Haskell,other,20,0,simonmic,2026-10-02 13:23:38.049011,0.0,False
+49914962,Uber Wait Times Rise 19% as Prices Climb 53%: Study,technology,28,13,richardbarosky,2026-10-02 13:23:39.008850,0.4482758620689655,False
+49922086,Parsing compressed JSON at 40 GB/s,other,5,0,mfiguiere,2026-10-02 13:23:40.026615,0.0,False
+49910465,cp: -r or -R?,other,5,0,zdw,2026-10-02 13:23:40.999914,0.0,False
+49876883,"Una watch review: A modular, repairable GPS watch is a good first step",technology,15,4,poisonborz,2026-10-02 13:23:41.916821,0.25,False
+49915907,192GB Framework Desktop open for pre-order,other,14,12,locusm,2026-10-02 13:23:42.865488,0.8,False
+49902367,Inspect: An open-source framework for large language model evaluations,other,5,0,pkilgore,2026-10-02 13:23:43.889749,0.0,False
+49916955,Cities Are Forced to Funnel License Plate Data to a Federal Surveillance Program,technology,92,37,ripe,2026-10-02 13:23:44.841075,0.3978494623655914,False
+49909724,"RIP, Vector Database",technology,10,0,emschwartz,2026-10-02 13:23:45.767383,0.0,False
+49910048,Minitel,other,24,2,GuinansEyebrows,2026-10-02 13:23:46.810394,0.08,False
+49870837,Lunar Terminator Paradox,other,104,69,dima55,2026-10-02 13:23:47.847055,0.6571428571428571,False
+49871277,3D necroprinting: Leveraging biotic material as the nozzle for 3D printing,other,28,9,ColinWright,2026-10-02 13:23:48.782323,0.3103448275862069,False
+49901351,Climate Essay: The Inconvenient Truth Behind the Inconvenient Truth (2026),worldnews,10,4,sceeene,2026-10-02 13:23:49.826157,0.36363636363636365,False
+49886228,GPT-6 Astra is the best vision model we have tested,other,36,0,gmays,2026-10-02 13:23:50.834623,0.0,False
+49897075,GLM-5.3 and the spread of advanced cyber capabilities,other,250,234,Philpax,2026-10-02 13:23:51.768826,0.9322709163346613,True
+49912129,Japan officially overhauls permanent residency rules,other,27,14,mikhael,2026-10-02 13:23:52.836453,0.5,False
+49912318,Carnegie Mellon University Announces Historic $3B Gift from Ken Griffin,other,47,48,Guyadou,2026-10-02 13:23:53.751871,1.0,False
+49881951,"So long Google, and thanks for all the nudes",other,263,112,speckx,2026-10-02 13:23:54.689382,0.42424242424242425,True
+49899453,McDonald's push to have AI price your Big Mac,technology,61,37,Betelbuddy,2026-10-02 13:23:55.611765,0.5967741935483871,False
+49906552,"Flydubai B38M, first officer under investigation for suspected suicide attempt",technology,48,7,haunter,2026-10-02 13:23:56.547289,0.14285714285714285,False
+49876467,Georeferencing Chernarus and visiting in real life (2021),other,25,5,carlos-menezes,2026-10-02 13:23:57.571651,0.19230769230769232,False
+49905487,"September 2026: The world today, as seen by one Polish guy",other,511,387,marjancek,2026-10-02 13:23:58.579822,0.755859375,True
+49923575,Canada fast-tracks Pacific oil pipeline to reduce US dependence,other,80,87,geox,2026-10-02 13:23:59.658824,1.0740740740740742,False
+49914048,Aurora PostgreSQL now supports querying of Apache Iceberg and Parquet data,technology,15,2,daigoba66,2026-10-02 13:24:00.607714,0.125,False
+49880312,"The problem is not AI code, but not knowing about system architecture or intent",technology,386,239,zazuke,2026-10-02 13:24:01.619756,0.6175710594315246,True
+49880969,Synthetic Sagas,other,6,0,ffin,2026-10-02 13:24:02.554715,0.0,False
+49913726,The Cuckoo's Egg (Book),entertainment,11,1,ibobev,2026-10-02 13:24:03.524023,0.08333333333333333,False
+49881747,Windows 11½,other,537,180,jjbinx007,2026-10-02 13:24:04.539902,0.3345724907063197,True
+49918836,"Show HN: Vectorless, Reasoning-Based RAG",entertainment,7,0,nvmdbljstm,2026-10-02 13:24:05.465437,0.0,False
+49909958,Cities Forced to Funnel License Plate Data to Federal Surveillance Program,technology,17,1,CharlesW,2026-10-02 13:24:06.423492,0.05555555555555555,False
+49891721,Mistral CEO says U.S. AI safety debate masks competitors' 'negligence',technology,51,2,cramer4next,2026-10-02 13:24:07.382520,0.038461538461538464,False
+49885493,Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?,sports,79,50,thefourthchime,2026-10-02 13:24:08.350976,0.625,False
+49906493,"Show HN: Fast, Lightroom-compatible RAW photo editor for Linux and macOS",entertainment,8,0,pchm,2026-10-02 13:24:09.329429,0.0,False
+49902581,Mathematicians Harness Randomness to Crack a 55-Year-Old Conjecture,other,6,0,tzury,2026-10-02 13:24:10.302005,0.0,False
+49874551,Made by Mechanical Means,other,72,25,cocoflunchy,2026-10-02 13:24:11.239150,0.3424657534246575,False
+49918537,AI CEO Interviews (2026),technology,8,0,vismit2000,2026-10-02 13:24:12.277589,0.0,False
+49914290,USPS to Put Cameras in Trucks That Scan Roads for 'Community Safety',other,21,1,dualvariable,2026-10-02 13:24:13.323897,0.045454545454545456,False
+49914149,Anthropic's IPO Prospectus Is a Fucking Doozy,other,69,33,danaris,2026-10-02 13:24:15.203869,0.4714285714285714,False
+49898877,Nicholas Polson has authored 258 academic papers in 2026 so far,other,152,110,zaik,2026-10-02 13:24:16.133261,0.7189542483660131,True
+49882769,Let's See Paul Allen's SIMD CSV Parser,other,17,0,hellerve,2026-10-02 13:24:17.059757,0.0,False
+49926083,I'm Calling for a Pause in the Development of the Universal Bone Dissolver,other,10,7,Jtsummers,2026-10-02 13:24:18.011147,0.6363636363636364,False
+49872719,Fool's Expertise,other,45,25,elffjs,2026-10-02 13:24:20.954250,0.5434782608695652,False
+49897336,OpenAI Targets $30B in New Funding at $1.4T Value,technology,44,15,spenvo,2026-10-02 13:24:21.899835,0.3333333333333333,False
+49896050,DraftKings is using AI to behaviorally target chronic gamblers,technology,567,428,paimapi,2026-10-02 13:24:22.860067,0.7535211267605634,True
+49912781,"The Homeless Community in Portland, Oregon That Became a Self-Governed Village",other,12,2,bookofjoe,2026-10-02 13:24:24.886679,0.15384615384615385,False
+49925782,I'm leaving Reddit because of RSS,other,13,2,speckx,2026-10-02 13:24:25.923213,0.14285714285714285,False
+49898896,TIRx Harness: An Open Compiler Harness for Agentic GPU Programming,technology,9,0,jinhongyii,2026-10-02 13:24:27.982499,0.0,False
+49901973,How our vibe coded website looks like a designer made it,technology,135,77,yakkomajuri,2026-10-02 13:24:28.936282,0.5661764705882353,True
+49904221,"AI tools generated nearly $1B in extra costs, Blue Cross insurers say",technology,23,12,EA-3167,2026-10-02 13:24:29.874099,0.5,False
+49882894,Neal Stephenson responds with wit and humor (2004),other,86,37,jdkee,2026-10-02 13:24:30.825043,0.42528735632183906,False
+49911815,Half of world’s population exposed to dangerous levels of ozone in 2026,other,8,0,ck2,2026-10-02 13:24:32.798935,0.0,False
+49870377,Luarocks.org remote code execution exploit,technology,33,14,cupcakerob,2026-10-02 13:24:33.823936,0.4117647058823529,False
+49876760,Show HN: Hntui – A TUI for Hacker News,entertainment,111,65,ahmd-sh,2026-10-02 13:24:34.811584,0.5803571428571429,False
+49901700,The Netherlands is preparing to dump Windows and Office for its own Linux,other,27,3,CrankyBear,2026-10-02 13:24:35.740227,0.10714285714285714,False
+49874728,Prompting Claude Opus 5.5,other,207,225,Michelangelo11,2026-10-02 13:24:36.716068,1.0817307692307692,True
+49881606,Joseph Szabo’s pictures of American adolescents,other,84,64,prismatic,2026-10-02 13:24:37.657363,0.7529411764705882,False
+49902354,"Councilmember, residents push back on AI 'blight scores' given to homes",technology,27,5,hn_acker,2026-10-02 13:24:38.666477,0.17857142857142858,False
+49885725,Sonnet 5.5 scores just behind Opus 5.5 on Artificial Analysis Intelligence Index,other,11,6,spenvo,2026-10-02 13:24:39.648516,0.5,False
+49893248,Stupid Over-Reliance on Palantir AI Helped Lead to US Bombing of Iranian School,technology,28,1,cdrnsf,2026-10-02 13:24:40.590118,0.034482758620689655,False
+49901900,McDonald's Is Using AI to Dynamically Price Its Burgers,technology,37,20,DeepLogin,2026-10-02 13:24:41.527981,0.5263157894736842,False
+49890829,New Cyber-OSINT model released,other,53,16,soltanov,2026-10-02 13:24:42.467871,0.2962962962962963,False
+49873048,"Armada: Encrypted, Open-Source, Discord Alternative (Built on Nostr)",other,128,18,long____cat,2026-10-02 13:24:43.392643,0.13953488372093023,True
+49910401,Tobacco – Smoking Cigarettes – Radiation Dose,other,11,2,thunderbong,2026-10-02 13:24:44.325844,0.16666666666666666,False
+49913588,Reddit is putting more limits on old.reddit.com,other,60,29,throw0101a,2026-10-02 13:24:45.256293,0.47540983606557374,False
+49884583,"Remembering the Chicago Pile, the First Nuclear Reactor",other,13,1,conorcleary,2026-10-02 13:24:46.243943,0.07142857142857142,False
+49872472,Self-parking car using genetic algorithm (2021),other,65,5,trekhleb,2026-10-02 13:24:47.267024,0.07575757575757576,False
+49872200,Cambrian Explosion of AI,technology,19,23,debarshri,2026-10-02 13:24:49.255473,1.15,False
+49881797,RRSI: Regularized Recursive Self-Improvement of Agent Harnesses,other,10,0,simonpure,2026-10-02 13:24:50.201928,0.0,False
+49881592,Sober: We Ported Roblox to Linux,other,12,6,poly2it,2026-10-02 13:24:51.127685,0.46153846153846156,False
+49908610,Cold War espionage added $4.6B to East Germany's economy,worldnews,13,1,snarky-comments,2026-10-02 13:24:52.060109,0.07142857142857142,False
+49886850,Highlights from Git 2.56,other,13,3,soheilpro,2026-10-02 13:24:53.013382,0.21428571428571427,False
+49879707,"First DVD player announced Sept 26, 1996",sports,10,0,ibobev,2026-10-02 13:24:55.322984,0.0,False
+49910301,"Kuala Lumpur is the world's most polluted city due to haze, Singapore third",other,9,2,bookofjoe,2026-10-02 13:24:57.229357,0.2,False
+49893266,"Where's the ""Intelligence Explosion""?",other,58,32,anon373839,2026-10-02 13:24:58.266630,0.5423728813559322,False
+49899200,Nura // The road to daily-drivable mainline phones,technology,5,0,ibobev,2026-10-02 13:24:59.198078,0.0,False
+49898805,PS1 Game on ESP32-S3,sports,5,2,dmonterocrespo,2026-10-02 13:25:00.117782,0.3333333333333333,False
+49883733,Your SBOM Is Fan Fiction,other,8,0,zasc,2026-10-02 13:25:01.066926,0.0,False
+49906669,"GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",other,80,101,theanonymousone,2026-10-02 13:25:02.046208,1.2469135802469136,False
+49869861,"Quantized Reasoning Models Think They Need to Think Longer, but They Do Not",other,13,1,theanonymousone,2026-10-02 13:25:03.081651,0.07142857142857142,False
+49920205,EU KIDS Act,other,19,7,pona-a,2026-10-02 13:25:04.065507,0.35,False
+49912499,Reddit is killing RSS feeds and ending public API access because of AI bots,technology,39,30,speckx,2026-10-02 13:25:06.003297,0.75,False
+49914354,Invisible XML (2025),other,8,1,devonnull,2026-10-02 13:25:07.933959,0.1111111111111111,False
+49870394,"Show HN: Cartopolis, interactive globe-sized 3D world",entertainment,19,6,jvanveen,2026-10-02 13:25:11.253494,0.3,False
+49893735,ESP32 can stream I/Q up to 80MSPS 10bit from 2GHz/5GHz by tapping Wifi/BT stage,other,6,1,BlackRabbit1,2026-10-02 13:25:12.197010,0.14285714285714285,False
+49906892,"""Apple engineer"" builds GitHub AI torture chamber to inflict ""pain"" on models",technology,24,26,LargeLingoMod,2026-10-02 13:25:13.177157,1.04,False
+49883345,SB 923 is Law: CCPA deletion rights now reach third-party data,technology,43,13,patrickwdaly,2026-10-02 13:25:14.136377,0.29545454545454547,False
+49913312,Government AI Chatbot Reprogrammed to Stop Fact-Checking President,technology,7,0,worik,2026-10-02 13:25:15.089899,0.0,False
+49891989,"Show HN: CodeDiff – Fast (<100ms), robust (99.95%) syntax-aware code diff",technology,7,1,FabCH,2026-10-02 13:25:16.043327,0.125,False
+49916668,10-year Treasury yield climbs above 5.3% to a level not seen in 24 years,other,120,179,kaycebasques,2026-10-02 13:25:17.026718,1.4793388429752066,False
+49919026,OpenAI halved the allowance of the $200 plan to 10x,technology,18,7,k9294,2026-10-02 13:25:18.074694,0.3684210526315789,False
+49891739,Donating to Open Source,other,6,0,ibobev,2026-10-02 13:25:19.124046,0.0,False
+49920197,"More than 44,000 file legal objections to Palantir NHS platform handling",other,6,0,sbulaev,2026-10-02 13:25:20.057792,0.0,False
+49887963,"AI risk is not sentience by computers, it is negligence by humans",technology,34,6,ianmosher,2026-10-02 13:25:21.060008,0.17142857142857143,False
+49916388,Someone Torturing LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI,technology,6,1,unleaded,2026-10-02 13:25:22.004524,0.14285714285714285,False
+49890075,My City Just Banned Flock After My Wrongful Stop Made National News,other,36,5,Markoff,2026-10-02 13:25:22.978195,0.13513513513513514,False
+49890846,Fuck Adobe – Free vector editor,other,5,1,fgatti,2026-10-02 13:25:24.087469,0.16666666666666666,False
+49880811,N.Y.P.D. Officers Used Flock Safety to Track License Plates Without a Contract,other,33,7,jaredwiener,2026-10-02 13:25:25.069299,0.20588235294117646,False
+49901987,FBI Announces ShinyHunters Arrest,other,30,6,sanelk,2026-10-02 13:25:26.123164,0.1935483870967742,False
+49870304,Have an LLC,other,72,63,mlex,2026-10-02 13:25:27.049264,0.863013698630137,False
+49915928,Where Did the Productivity Gains Go?,technology,5,0,firefoxd,2026-10-02 13:25:28.015710,0.0,False
+49911529,Xbox for Sale: Don't Believe Anything Until It Is Officially Denied,other,7,7,OhMeadhbh,2026-10-02 13:25:28.959400,0.875,False
+49910937,The Militia and the Mole,other,5,0,robtherobber,2026-10-02 13:25:30.025692,0.0,False
+49919314,US Government's new AI chatbot pulls back from debunking Trump,technology,10,0,mdp2021,2026-10-02 13:25:32.331372,0.0,False
+49910223,Ice Age Spear Points Tell a Story of Human Progress,other,5,0,Brajeshwar,2026-10-02 13:25:33.291977,0.0,False
+49910210,Two New Birds Louder Than Jackhammers Just Dropped,other,6,0,Brajeshwar,2026-10-02 13:25:34.257601,0.0,False
+49910197,"For the first time in a century, the Atlantic may see no hurricanes",other,10,1,Brajeshwar,2026-10-02 13:25:35.203836,0.09090909090909091,False
+49889934,Firebase SDK is crashing all iOS apps since this morning,other,133,72,pranshuchittora,2026-10-02 13:25:36.178356,0.5373134328358209,True
+49899435,Americans will be able to apply for their first passport online in 2027,sports,10,0,atestu,2026-10-02 13:25:37.117471,0.0,False
+49887518,Profit Margins of the Largest Companies,other,36,11,teleforce,2026-10-02 13:25:38.152281,0.2972972972972973,False
+49872384,ReScript 12 (2025),other,9,1,networked,2026-10-02 13:25:39.352906,0.1,False
+49877349,"AMD's IPO, September 27, 1972",other,5,0,ibobev,2026-10-02 13:25:40.328260,0.0,False
+49876861,Which Diet Is Best to Lower Liver Fat and Improve Insulin Sensitivity?,other,22,18,llm_nerd,2026-10-02 13:25:42.251792,0.782608695652174,False
+49915002,"China's 2,250kW chargers are in service, US thinks about 750kW next year",other,18,17,cisc,2026-10-02 13:25:43.271395,0.8947368421052632,False
+49871569,"Show HN: Fusor – Like Vue, but the logic is Rust",entertainment,10,1,andreespirela,2026-10-02 13:25:44.323323,0.09090909090909091,False
+49909015,Salmon Are Thriving After Klamath River Dam Removals,other,5,0,wawayanda,2026-10-02 13:25:45.310436,0.0,False
+49901255,1337x Servers Hit with Missile Strikes Today,other,9,1,r721,2026-10-02 13:25:46.414937,0.1,False
+49897600,What a Massive New 728-Foot-Wide Crater Means for Future Moon Bases,other,27,54,bookofjoe,2026-10-02 13:25:48.306665,1.9285714285714286,False
+49893876,Claude partial outage,other,171,148,sidcool,2026-10-02 13:25:50.291553,0.8604651162790697,True
+49871687,Blend and Haul: Fertilizer Blending Simulator,other,9,7,paltman,2026-10-02 13:25:51.467049,0.7,False
+49895975,AI models keep posting screenshots showing sensitive data from inside companies,technology,21,0,Dotnaught,2026-10-02 13:25:52.601490,0.0,False
+49880850,GrapheneOS Picks Motorola Signature 27 as Its First Non-Pixel Phone,other,28,6,cf100clunk,2026-10-02 13:25:53.751768,0.20689655172413793,False
+49899229,How El Niño Made the Atlantic Hurricane Season Disappear,other,11,10,atestu,2026-10-02 13:25:54.983230,0.8333333333333334,False
+49886183,I thought I was building a C replacement. I was wrong,other,22,2,birdculture,2026-10-02 13:25:55.936913,0.08695652173913043,False
+49904607,Someone Still Has to Buy Your Product,other,11,6,maytc,2026-10-02 13:25:57.160929,0.5,False
+49899051,Memory Companies Have Destroyed the Consumer Market,other,121,105,DeepLogin,2026-10-02 13:25:58.100120,0.860655737704918,False
+49897004,U.S. Media Freedom: Perceptions Hit New Low,other,12,1,giuliomagnifico,2026-10-02 13:26:01.122192,0.07692307692307693,False
+49912172,Shareholders Should Pay for AI Dangers,technology,5,0,darquomiahw,2026-10-02 13:26:02.090025,0.0,False
+49886191,Prenatal exposure to the plasticizer DEHP increases autism and ADHD,other,19,2,OutOfHere,2026-10-02 13:26:03.047528,0.1,False
+49920367,"""Biggest threat yet"": New EU rules could restrict online gaming",other,7,1,nickslaughter02,2026-10-02 13:26:04.006917,0.125,False
+49880311,13 Months Sober (2025),other,86,77,btables,2026-10-02 13:26:04.972768,0.8850574712643678,False
+49900771,Dyson Won't Say What's Wrong with Its CameraJet Toothbrush,other,13,2,absqueued,2026-10-02 13:26:05.954257,0.14285714285714285,False
+49882348,ESP-SDR: Raw IQ Capture with Espressif's ESP32 Chips,other,7,0,Jeija,2026-10-02 13:26:08.797287,0.0,False
+49919126,OpenAI whines that Chinese model stole its IP that it stole from everybody else,technology,9,1,jjgreen,2026-10-02 13:26:09.738768,0.1,False
+49895507,Dead Money,other,21,5,crescit_eundo,2026-10-02 13:26:10.708052,0.22727272727272727,False
+49904408,Tesla takes on $30B in credit as it approaches unprofitability,other,158,220,ciconia,2026-10-02 13:26:11.816027,1.3836477987421383,True
+49881620,"I got tired of never knowing what ports are running, so I built WhatThePort",other,5,4,tomjohndesign,2026-10-02 13:26:12.825534,0.6666666666666666,False
+49881201,Show HN: I'm a dermatologist and I vibe coded a 3D biophysical skin model,technology,8,0,sungam,2026-10-02 13:26:14.835305,0.0,False
+49884237,Scaling Memory Safety: AI-Assisted Rewrites of C/C++ Dependencies to Rust,technology,13,6,ndesaulniers,2026-10-02 13:26:15.844626,0.42857142857142855,False
+49883552,Headed for the Exit: The Great Engineering Leader Career Break,other,20,1,iamflimflam1,2026-10-02 13:26:17.792487,0.047619047619047616,False
+49879233,"Show HN: Enterprise Postgres for AI and more, from prototype to production",technology,7,0,bonesmoses,2026-10-02 13:26:18.790911,0.0,False
+49898301,Electrification efficiency: The world will need less energy after the transition,other,11,6,thelastgallon,2026-10-02 13:26:19.736205,0.5,False
+49891550,US sanctions force The Netherlands off Microsoft and toward alternative NixOS,worldnews,387,394,mywacaday,2026-10-02 13:26:20.732306,1.0154639175257731,True
+49875347,"Big AI's content problem: Take the work, keep the money",technology,28,3,samizdis,2026-10-02 13:26:21.690269,0.10344827586206896,False
+49893709,"Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",technology,163,43,dkobia,2026-10-02 13:26:22.666570,0.2621951219512195,True
+49910100,Pilot of Israel-bound FlyDubai flight tried to crash plane,technology,35,19,alephnerd,2026-10-02 13:26:25.555397,0.5277777777777778,False
